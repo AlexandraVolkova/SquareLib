@@ -1,0 +1,11 @@
+D:\Programming\SquareLib\SquareLib\bin\Debug\net8.0\SquareLib.deps.json
+D:\Programming\SquareLib\SquareLib\bin\Debug\net8.0\SquareLib.dll
+D:\Programming\SquareLib\SquareLib\bin\Debug\net8.0\SquareLib.pdb
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\SquareLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\SquareLib.AssemblyInfoInputs.cache
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\SquareLib.AssemblyInfo.cs
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\SquareLib.csproj.CoreCompileInputs.cache
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\SquareLib.dll
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\refint\SquareLib.dll
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\SquareLib.pdb
+D:\Programming\SquareLib\SquareLib\obj\Debug\net8.0\ref\SquareLib.dll

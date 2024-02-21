@@ -1,0 +1,18 @@
+Комментарий ко второму вопросу:
+Библиотека SquareLib:
+ISquare.cs (интерфейс)
+Circle.cs (класс окружностей)
+Triangle.cs (класс треугольников)
+CircleCalculation.cs (реализует интерфейс ISquare)
+TriangleCalculation.cs (реализует интерфейс ISquare)
+
+Данная библиотека легко масштабируема. При желании можно добавить класс для новой фигуры, который так же бы реализовал интерфейс ISquare.
+Есть проверка на прямоугольный треугольник.
+
+Чтобы проверить правильность библиотки, написаны Unit-тесты:
+TestSquareLib
+
+Ответ на третий вопрос:
+select table.nameOfproduct , table.nameOfCategory
+  from table
+  full join table on table.nameOfProduct_id = table.nameOfCategory_id
